@@ -1,0 +1,14 @@
+.card {
+    margin: 20px;
+}
+
+
+
+.frame{
+display: inline;
+width: 32%;
+float:center ;
+margin: 5px; 
+margin-left: 10px; 
+border-radius: 20px; 
+}
